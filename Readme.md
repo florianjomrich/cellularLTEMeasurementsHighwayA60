@@ -15,7 +15,7 @@ ISBN 978-989-758-293-6
 Campaign3:
 
 Enhanced Cellular Bandwidth Prediction for
-Highly Automated Driving?
+Highly Automated Driving
 Florian Jomrich, Florian Fischer, Steffen Knapp, Tobias Meuser, Björn
 Richerzhagen and Ralf Steinmetz
 
